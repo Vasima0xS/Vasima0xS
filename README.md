@@ -19,3 +19,11 @@
 Если вы захотите изменить тему оформления (например, на `radical`, `tokyonight` или `merko`), просто замените значение в параметре `theme=dark` в коде выше.
 
 Хотите, чтобы я добавил в этот код список ваших основных технологий или карточку с самыми используемыми языками программирования?
+
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
