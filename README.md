@@ -1,14 +1,21 @@
-# Привет, я [Ваше Имя] 👋
+# Привет! Это мой профиль 👋
 
-### Обо мне
-- 🔭 Я сейчас работаю над ...
-- 🌱 Я изучаю ...
-- 💬 Спрашивайте меня о ...
+здесь можно добавить краткое описание о себе...
 
-### Технологии
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-### Моя статистика
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### Моя статистика GitHub
+
+[![Vasima0xS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasima0xS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+---
+
+### Как это работает:
+* **username=Vasima0xS**: Этот параметр подтягивает данные именно вашего аккаунта.
+* **theme=dark**: Устанавливает темную тему для карточки.
+* **show_icons=true**: Добавляет иконки (звезды, коммиты и т.д.) рядом с текстом.
+
+### Что еще можно сделать:
+Если вы захотите изменить тему оформления (например, на `radical`, `tokyonight` или `merko`), просто замените значение в параметре `theme=dark` в коде выше.
+
+Хотите, чтобы я добавил в этот код список ваших основных технологий или карточку с самыми используемыми языками программирования?
